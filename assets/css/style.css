@@ -1,0 +1,33 @@
+body{
+   background-color: #116466;
+}
+
+input:hover{
+    background-color: #D9B08c;
+}
+
+.one{
+    background-color: #D9B08c  ;
+    width:20%;
+    padding:10px;
+}
+
+a{
+    color: #2c2c2c;
+    padding: 5px;
+    text-decoration:none;
+}
+h1{
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+}
+
+hr{
+   border-color: #2c2c2c
+}
+
+input{
+    padding:13px;
+    margin:13px;
+    width:37%;
+}

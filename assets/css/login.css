@@ -1,0 +1,46 @@
+body{
+    background-color: #1F2;
+}
+
+.team{
+    background-color:#1F2833;
+    width:35%;
+    height:300px;
+    padding:20px;
+    margin: auto;
+    margin-top:25px;
+}
+
+label{
+    padding-right: 90px;
+    font-size:25px;
+}
+
+input{
+    height:40px;
+    width:70%;
+    border-color: #1F2
+}
+
+.two{
+    width:45%;
+    background: #1F2;
+    color:white;
+    height:35px;
+    border-color:#1F2833;
+    margin-top: 10px
+}
+
+a{
+    text-decoration: none;
+    color: #1F2833;
+    padding: 5px;
+}
+
+h1{
+font-family: 'Lobster', cursive;
+}
+
+hr{
+    border-color: #1F2833
+}
